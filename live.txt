@@ -6,6 +6,36 @@ CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 
+
+World,#genre#
+BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+
+NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+朝日電視台,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+
+美国Newsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+美国Red Bull TV SD,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+德国Baden TV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+德国Noa 4 Hamburg,http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+意大利Canale 7,http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+波兰TV Kujawy (Opt-1),http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8?123
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?456
+
+
+ 
+
+
+
 央视,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2 财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -88,18 +118,4 @@ CGTN阿语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
-World,#genre#
-BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-美国Newsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-美国Red Bull TV SD,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-德国Baden TV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-德国Noa 4 Hamburg,http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-意大利Canale 7,http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-波兰TV Kujawy (Opt-1),http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8?123
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?456
+
