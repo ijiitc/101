@@ -11,7 +11,6 @@ World,#genre#
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 FOXNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 美国Newsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Red Bull TV SD,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 德国Baden TV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
@@ -20,5 +19,6 @@ NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/ind
 波兰TV Kujawy (Opt-1),http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8?123
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?456
