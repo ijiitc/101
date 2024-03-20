@@ -169,11 +169,11 @@ TVBS新闻台,http://livetv.skycf.eu.org/live.m3u8?c=5
 EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+
 凤凰卫视,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
 凤凰卫视,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
-凤凰卫视,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰卫视,http://120.238.13.198:8000/hls/20/index.m3u8
 凤凰卫视,http://r.jdshipin.com/cCCzW
 凤凰卫视,https://s2.pub/cctv-2
@@ -183,7 +183,6 @@ EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-
 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰资讯,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 凤凰资讯,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156407&extension=ts
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx.m3u8
@@ -192,7 +191,6 @@ EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-
 
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰香港,https://s2.pub/cctv-1
-凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 凤凰香港,http://113.117.74.28:8081/hls/38/index.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -205,20 +203,12 @@ EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-
 凤凰卫视中文台,http://183.1.248.16:8081/hls/37/index.m3u8#http://110.72.77.8:808/hls/83/index.m3u8#http://jyjxy.7766.org:8811/hls/32/index.m3u8#http://110.184.211.113:55555/udp/239.93.1.9:2192#http://118.250.108.23:8888/udp/239.76.246.7:1234
 凤凰卫视资讯台,http://183.1.248.16:8081/hls/36/index.m3u8#http://110.72.77.8:808/hls/1/index.m3u8#http://jyjxy.7766.org:8811/hls/33/index.m3u8#http://110.184.211.113:55555/udp/239.93.0.118:2191#http://118.250.108.23:8888/udp/239.76.246.8:1234
 凤凰卫视香港台,http://183.1.248.16:8081/hls/38/index.m3u8#http://110.72.77.8:808/hls/333/index.m3u8#http://jyjxy.7766.org:8811/hls/34/index.m3u8
-TVB翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#mitv://147.135.39.171:9906/65a4e8350007683646f034780a032936#http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c#http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e#http://yuju666888.x3322.net:808/hls/105/index.m3u8#http://113.119.39.121:808/hls/105/index.m3u8#http://jyjxy.7766.org:8811/hls/36/index.m3u8
-TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv#http://yuju666888.x3322.net:808/hls/106/index.m3u8#http://113.119.39.121:808/hls/106/index.m3u8#http://jyjxy.7766.org:8811/hls/37/index.m3u8
-TVBJ2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
-TVB无线新闻,mitv://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b#http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
-TVB财经体育资讯,mitv://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084#http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv#http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
-TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
+
 TVB星河台,http://183.1.248.16:8081/hls/135/index.m3u8
-ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
-ViuTVSix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
-莲花卫视,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b#http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
-澳门-MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
+ 
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://107.151.203.111:2209/135/hk.php?id=aoya
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680167055218938751&wsIPSercert=d24f6d7c9d3646d953 3d492d5209384b&wsMonitor=0#http://zhibo .hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-港台电视31台,mitv:// Generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242#http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+
 港台电视32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
