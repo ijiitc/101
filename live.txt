@@ -172,8 +172,8 @@ TVBS新闻台,http://livetv.skycf.eu.org/live.m3u8?c=5
 EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-凤凰卫视,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰卫视,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
+凤凰卫视,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰卫视,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
