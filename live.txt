@@ -669,105 +669,58 @@ MLB Network,http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 
 备用,#genre#
-CCTV-1,http://39.130.202.81:6610/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
-CCTV-2,http://39.130.202.81:6610/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
-CCTV-2HD,http://39.130.202.81:6610/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
-CCTV-3,http://39.130.202.81:6610/gitv_live/CCTV-3/CCTV-3.m3u8
-CCTV-3HD,http://39.130.202.81:6610/gitv_live/iptv-cctv3-hd/chunklist.m3u8
-CCTV-4,http://39.130.202.81:6610/gitv_live/CCTV-4/CCTV-4.m3u8
-CCTV-4HD,http://39.130.202.81:6610/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
-CCTV-5,http://39.130.202.81:6610/gitv_live/CCTV-5/CCTV-5.m3u8
-CCTV-5,http://39.130.202.81:6610/gitv_live/iptv-cctv5-hd/chunklist.m3u8
-CCTV-5+HD,http://39.130.202.81:6610/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-CCTV-6,http://39.130.202.81:6610/gitv_live/CCTV-6/CCTV-6.m3u8
-CCTV-6HD,http://39.130.202.81:6610/gitv_live/iptv-cctv6-hd/chunklist.m3u8
-CCTV-7,http://39.130.202.81:6610/gitv_live/CCTV-7/CCTV-7.m3u8
-CCTV-7HD,http://39.130.202.81:6610/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
-CCTV-8,http://39.130.202.81:6610/gitv_live/G_CCTV-8/G_CCTV-8.m3u8
-CCTV-8HD,http://39.130.202.81:6610/gitv_live/iptv-cctv8-hd/chunklist.m3u8
-CCTV-9HD,http://39.130.202.81:6610/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
-CCTV-10,http://39.130.202.81:6610/gitv_live/CCTV-10/CCTV-10.m3u8
-CCTV-10HD,http://39.130.202.81:6610/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
-CCTV-11,http://39.130.202.81:6610/gitv_live/CCTV-11/CCTV-11.m3u8
-CCTV-12,http://39.130.202.81:6610/gitv_live/CCTV-12/CCTV-12.m3u8
-CCTV-12HD,http://39.130.202.81:6610/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
-CCTV-13,http://39.130.202.81:6610/gitv_live/CCTV-13/CCTV-13.m3u8
-CCTV-14,http://39.130.202.81:6610/gitv_live/G_CCTV-14/G_CCTV-14.m3u8
-CCTV-14HD,http://39.130.202.81:6610/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-CCTV-15,http://39.130.202.81:6610/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
-cctv-17,http://39.130.202.81:6610/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
-CCTV-17HD,http://39.130.202.81:6610/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
-CCTV-电视指南,http://39.130.202.81:6610/gitv_live/G_DIANSHIZN/G_DIANSHIZN.m3u8
-CGTN,http://39.130.202.81:6610/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
-CGTN,http://39.130.202.81:6610/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
-CGTN纪录,http://39.130.202.81:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-CGTN纪录,http://39.130.202.81:6610/gitv_live/G_CGTVJL/G_CGTVJL.m3u8
-中国教育1HD,http://39.130.202.81:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
-中国教育1,http://39.130.202.81:6610/gitv_live/G_CETV-1/G_CETV-1.m3u8
-中国教育2,http://39.130.202.81:6610/gitv_live/G_CETV-2/G_CETV-2.m3u8
-中国教育4,http://39.130.202.81:6610/gitv_live/G_CETV-4/G_CETV-4.m3u8
-早期教育,http://39.130.202.81:6610/gitv_live/G_CETV-ZQJY/G_CETV-ZQJY.m3u8
-安徽卫视,http://39.130.202.81:6610/gitv_live/AHWS/AHWS.m3u8
-安徽卫视HD,http://39.130.202.81:6610/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
-北京卫视,http://39.130.202.81:6610/gitv_live/G_BEIJING/G_BEIJING.m3u8
-北京卫视HD,http://39.130.202.81:6610/gitv_live/BTV-1/BTV-1.m3u8
-兵团卫视,http://39.130.202.81:6610/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8
-东方卫视,http://39.130.202.81:6610/gitv_live/G_DONGFANG/G_DONGFANG.m3u8
-东方卫视HD,http://39.130.202.81:6610/gitv_live/DFWS-HD/DFWS-HD.m3u8
-东南卫视,http://39.130.202.81:6610/gitv_live/DNWS/DNWS.m3u8
-东南卫视HD,http://39.130.202.81:6610/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
-甘肃卫视,http://39.130.202.81:6610/gitv_live/G_GANSU/G_GANSU.m3u8
-广东卫视,http://39.130.202.81:6610/gitv_live/G_GUANGDONG/G_GUANGDONG.m3u8
-广东卫视HD,http://39.130.202.81:6610/gitv_live/GDWS-HD/GDWS-HD.m3u8
-广西卫视,http://39.130.202.81:6610/gitv_live/GXWS/GXWS.m3u8
-贵州卫视,http://39.130.202.81:6610/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
-贵州卫视HD,http://39.130.202.81:6610/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
-海南卫视,http://39.130.202.81:6610/gitv_live/LYWS/LYWS.m3u8
-河北卫视,http://39.130.202.81:6610/gitv_live/G_HEBEI/G_HEBEI.m3u8
-河南卫视,http://39.130.202.81:6610/gitv_live/HENAN/HENAN.m3u8
-黑龙江卫视,http://39.130.202.81:6610/gitv_live/G_HEILONGJIANG/G_HEILONGJIANG.m3u8
-黑龙江卫视HD,http://39.130.202.81:6610/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8
-湖北卫视,http://39.130.202.81:6610/gitv_live/G_HUBEI/G_HUBEI.m3u8
-湖北卫视HD,http://39.130.202.81:6610/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
-湖南卫视,http://39.130.202.81:6610/gitv_live/G_HUNAN/G_HUNAN.m3u8
-湖南卫视HD,http://39.130.202.81:6610/gitv_live/HNWS-HD/HNWS-HD.m3u8
-吉林卫视,http://39.130.202.81:6610/gitv_live/G_JILIN/G_JILIN.m3u8
-江苏卫视,http://39.130.202.81:6610/gitv_live/JSWS-HD/JSWS-HD.m3u8
-江苏卫视HD,http://39.130.202.81:6610/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
-江西卫视,http://39.130.202.81:6610/gitv_live/JXWS/JXWS.m3u8
-江西卫视HD,http://39.130.202.81:6610/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
-康巴卫视,http://39.130.202.81:6610/gitv_live/G_KANGBA/G_KANGBA.m3u8
-辽宁卫视,http://39.130.202.81:6610/gitv_live/LNWS/LNWS.m3u8
-辽宁卫视HD,http://39.130.202.81:6610/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8
-南方卫视,http://39.130.202.81:6610/gitv_live/G_NANFANG/G_NANFANG.m3u8
-内蒙古卫视,http://39.130.202.81:6610/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
-宁夏卫视,http://39.130.202.81:6610/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
-农林卫视,http://39.130.202.81:6610/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
-青海卫视,http://39.130.202.81:6610/gitv_live/G_QINGHAI/G_QINGHAI.m3u8
-三沙卫视,http://39.130.202.81:6610/gitv_live/G_SANSHA/G_SANSHA.m3u8
-山东教育卫视,http://39.130.202.81:6610/gitv_live/G_SDETV/G_SDETV.m3u8
-山东卫视,http://39.130.202.81:6610/gitv_live/SDWS/SDWS.m3u8
-山东卫视HD,http://39.130.202.81:6610/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
-山西卫视,http://39.130.202.81:6610/gitv_live/SXWS/SXWS.m3u8
-陕西卫视,http://39.130.202.81:6610/gitv_live/G_SHANXI/G_SHANXI.m3u8
-深圳卫视,http://39.130.202.81:6610/gitv_live/G_SHENZHEN/G_SHENZHEN.m3u8
-深圳卫视HD,http://39.130.202.81:6610/gitv_live/SZWS-HD/SZWS-HD.m3u8
-四川卫视,http://39.130.202.81:6610/gitv_live/SCWS/SCWS.m3u8
-四川卫视HD,http://39.130.202.81:6610/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
-天津卫视,http://39.130.202.81:6610/gitv_live/TJWS/TJWS.m3u8
-天津卫视HD,http://39.130.202.81:6610/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
-西藏卫视,http://39.130.202.81:6610/gitv_live/G_XIZANG/G_XIZANG.m3u8
-新疆卫视,http://39.130.202.81:6610/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
-云南卫视,http://39.130.202.81:6610/gitv_live/G_YUNNAN/G_YUNNAN.m3u8
-云南卫视HD,http://39.130.202.81:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-浙江卫视,http://39.130.202.81:6610/gitv_live/G_ZHEJIANG/G_ZHEJIANG.m3u8
-浙江卫视HD,http://39.130.202.81:6610/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
-重庆卫视,http://39.130.202.81:6610/gitv_live/G_CHONGQING/G_CHONGQING.m3u8
-重庆卫视HD,http://39.130.202.81:6610/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
-北京冬奥纪实HD,http://39.130.202.81:6610/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
-北京卡酷少儿,http://39.130.202.81:6610/gitv_live/G_KAKU/G_KAKU.m3u8
-嘉佳卡通,http://39.130.202.81:6610/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
-金鹰纪实HD,http://39.130.202.81:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
-优漫卡通,http://39.130.202.81:6610/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
-上海纪实人文HD,http://39.130.202.81:6610/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
-哈哈炫动,http://39.130.202.81:6610/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
+CCTV1 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/1.m3u8
+CCTV2 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/1.m3u8
+CCTV3 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/1.m3u8
+CCTV4 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/1.m3u8
+CCTV5 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/1.m3u8
+CCTV5+ 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/1.m3u8
+CCTV6 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/1.m3u8
+CCTV7 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/1.m3u8
+CCTV8 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/1.m3u8
+CCTV 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/1.m3u8
+CCTV10 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/1.m3u8
+CCTV11 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/1.m3u8
+CCTV12 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/1.m3u8
+CCTV13 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/1.m3u8
+CCTV14 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/1.m3u8
+CCTV15 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/1.m3u8
+CCTV17 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/1.m3u8
+冬奥纪实 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226011/1.m3u8
+北京卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/1.m3u8
+东方卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/1.m3u8
+天津卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/1.m3u8
+吉林卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/1.m3u8
+辽宁卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/1.m3u8
+安徽卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/1.m3u8
+河南卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/1.m3u8
+湖南卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/1.m3u8
+江西卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/1.m3u8
+江苏卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/1.m3u8
+浙江卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/1.m3u8
+广东卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/1.m3u8
+深圳卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/1.m3u8
+云南卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/1.m3u8
+四川卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/1.m3u8
+陕西卫视 50FPS,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/1.m3u8
+甘肃卫视 FHD,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+广西卫视FHD,http://39.130.202.81:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
+黑龙江卫视 FHD,http://117.148.179.37/PLTV/88888888/224/3221228827/index.m3u8
+贵州卫视 FHD,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+海南卫视 FHD,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=114&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+河北卫视 FHD,http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
+湖北卫视 FHD,http://117.148.179.37/PLTV/88888888/224/3221228815/index.m3u8
+重庆卫视 FHD,http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+CCTV世界地理,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+CCTV兵器科技,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+CCTV央视台球,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+CCTV央视精品,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+CCTV女时尚,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+CCTV怀旧剧场,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+CCTV电视指南,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+CCTV第一剧场,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+CCTV风云剧场,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+CCTV风云足球,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+CCTV风云音乐,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+CCTV高尔夫网球,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+
