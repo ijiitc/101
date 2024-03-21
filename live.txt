@@ -586,6 +586,7 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 Live Now FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 NBC News Now,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+CNBC, http://23.237.98.42:8080/USA_CNBC/index.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 ABC7 Bay Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
 CBS News Bay Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
@@ -621,6 +622,9 @@ ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
 ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
+Disney Channel, http://38.96.178.201:80/live/Disney/index.m3u8
+Disney XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
+Cartoon Network,http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Star Movies,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
@@ -661,5 +665,9 @@ Tennis Channel,http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
 NFL Network,http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
 MLB Network,http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
-
-
+NBA, http://38.96.178.201/live/NBA/index.m3u8
+TalkTV, https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+Tennis Channel, https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+Animal Planet, http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+Comedy Central, http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+Food Network,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
