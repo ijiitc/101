@@ -610,6 +610,7 @@ FXX,http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 AMC,http://170.254.18.106/AMC/index.m3u8
 Star,http://170.254.18.106/STAR/index.m3u8
+Star Movies, http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 BET,http://170.254.18.106/BET/index.m3u8
 FX,http://170.254.18.106/FX/index.m3u8
 TNT,http://170.254.18.106/TNT/index.m3u8
@@ -620,6 +621,7 @@ TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
 ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+Xplore, http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 Disney Channel, http://38.96.178.201:80/live/Disney/index.m3u8
@@ -629,6 +631,7 @@ Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Star Movies,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+Discovery Channel,http://38.96.178.201:80/live/Discovery/index.m3u8
 BBC America,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 Cinemax East,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
