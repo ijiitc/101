@@ -133,10 +133,15 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 明珠台,http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 TVBJ2台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv 
 
+
 TVB星河,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
 TVB星河,http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
+ 
+
+
 TVB星河2,http://113.64.145.228:8081/hls/135/index.m3u8 
 TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
+TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -192,7 +197,10 @@ RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjj
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 澳门,#genre#
 澳门莲花,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv 
@@ -628,3 +636,29 @@ Tennis Channel,http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
 NFL Network,http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
 MLB Network,http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+
+测试,#genre#
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+KBSWORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+CBS HD,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8#https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8#https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8#https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+Sky News HD,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8#https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8##https://i.mjh.nz/sky-news-now.m3u8
+BBC Earth (US),https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+BBC Food,https://i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8#https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+Food Network(food),http://mykingtv.net:2082/Kingtv88/88990208/8635
+Tastemade(food),https://i.mjh.nz/SamsungTVPlus/ATBA2200006QX.m3u8#https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
+Tastemade Home(food),https://i.mjh.nz/SamsungTVPlus/CABC5200002OG.m3u8
+Bon Appétit(food),https://i.mjh.nz/SamsungTVPlus/CABC5200006AL.m3u8
+Gusto TV(food),https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
+TLC,http://mykingtv.net:2082/Kingtv88/88990208/8476
+Fashion TV,https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8#https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
+This Old House(老屋改造),https://i.mjh.nz/SamsungTVPlus/CABB25000248J.m3u8
+Architectural Digest(老屋改造),https://i.mjh.nz/SamsungTVPlus/CABC5200009HX.m3u8
+The Design Network(家庭设计),https://i.mjh.nz/SamsungTVPlus/CAAJ3400016J9.m3u8
+Homeful(家庭设计),https://i.mjh.nz/SamsungTVPlus/CABC5200022N1.m3u8
+HGTV(家庭设计),http://mykingtv.net:2082/Kingtv88/88990208/5301
+Star Movies(英),http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+AsianCrush(英),https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+Zoo Moo(儿),https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
