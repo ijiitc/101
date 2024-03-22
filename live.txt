@@ -134,7 +134,9 @@ RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjj
 HOY资讯台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
 澳门莲花台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv
 翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+翡翠台,http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
 明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+明珠台,http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 TVB翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv 
@@ -225,6 +227,7 @@ Channel V,http://110.72.77.8:808/hls/64/index.m3u8#http://110.184.211.113:55555/
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8 
 
+澳门澳视,http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
 澳视澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 澳视澳門,https://tdm.yeslivetv.com/ch1/ch1.live/playlist.m3u8
 澳视澳門,https://tdm.yeslivetv.com/ch1/ch1.live/chunklist_w172688016.m3u8
