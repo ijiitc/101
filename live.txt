@@ -176,10 +176,6 @@ HOY78台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvnd
 VIUTV,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
 VIUTV6,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
 
-EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-
 港台电视31台,http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvbjuyhbnjyjthj31.flv
 港台电视32台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
 港台电视32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
@@ -225,8 +221,6 @@ EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-
 星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 星空卫视,http://203.80.165.14/stream/channelid/192561066?profile=pass
 星空卫视,http://110.72.77.8:808/hls/60/index.m3u8 
-
-
 
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
