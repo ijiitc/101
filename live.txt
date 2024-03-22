@@ -717,47 +717,7 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
 地下交通站,https://live.metshop.top/yy/1354930965
 
-韩剧,#genre#
-MBC 나혼자산다(我独自生活),https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
-SBS TV 동물농장(TV动物农场),https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
-JTBC 냉장고를 부탁해(拜托了冰箱),https://i.mjh.nz/SamsungTVPlus/KRBD4300003MW.m3u8
-KBS 1박2일 시즌1(两天一夜第1季),https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
-JTBC 아는 형님(认识的哥哥),https://i.mjh.nz/SamsungTVPlus/KRBD43000023M.m3u8
-JTBC 비긴어게인(再次出发),https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
-SBS 나는 솔로(我是单身),https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
-TV조선 우리 이혼했어요(我们离婚了),https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
-SBS 순풍산부인과(顺风妇产科),https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
-MBC 지붕뚫고 하이킥(穿透屋顶的High Kick),https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
-MBC 거침없이 하이킥(搞笑一家人),https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8
-JTBC 효리네 민박 시즌1(孝利家民宿 第1季),https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8
-맛있는 녀석들(好吃的家伙们),https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8
-JTBC 18 어게인(再次十八岁),https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8
-전우치(田禹治),https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8
-MBN 나는 자연인이다(我是自然人),https://i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8
-고독한 미식가(孤独的美食家 日本),https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8
-MBC every1 어서와 한국은 처음이지?(快来，第一次来韩国吧？),https://i.mjh.nz/SamsungTVPlus/KRBB500034DY.m3u8
-TV CHOSUN 국가가 부른다(国家的呼唤),https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8
-도라마코리아(日剧),https://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8
-tvN 윤스테이(尹STAY),https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
-MBN 돌싱글즈(恢单们),https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8
-MBC every1 별순검(别巡检),https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8
-SBS 런닝맨(跑男),https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8
-SBS 미운 우리 새끼(我家的熊孩子),https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8
-MBC 선을 넘는 녀석들(越线的家伙们),https://i.mjh.nz/SamsungTVPlus/KRBB50000721W.m3u8
-TV CHOSUN 식객 허영만의 백반기행(食客虚荣的白饭纪行),https://i.mjh.nz/SamsungTVPlus/KRBC3200008M6.m3u8
-SBS 백종원의 골목식당(白种元的小巷餐厅),https://i.mjh.nz/SamsungTVPlus/KRBB4200011RB.m3u8
-SBS 패밀리가 떴다(家族诞生),https://i.mjh.nz/SamsungTVPlus/KRBB4200014MY.m3u8
-iHQ 돈쭐내러 왔습니다(来用钱教训了),https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8
-E채널 토요일은 밥이 좋아(星期六饭真好),https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8
-KBS Joy 연애의 참견(恋爱的干预),https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8
-KBS Joy 무엇이든 물어보살(您尽管问),https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8
-SBS 생활의 달인(生活的达人),https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8
-MBN 휴먼다큐 사노라면(人类纪录片:一直活下去),https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8
-우리의식탁(我们的餐桌),https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8
-KBS 개는 훌륭하다(狗狗很优秀),https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
-코코비TV(可可贝 儿童),https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8
-ch.핑크퐁(碰碰狐 儿童),https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8
-
+ 
 
 测试,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
