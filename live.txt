@@ -227,16 +227,11 @@ EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
  
-
-
 CGTN Europe,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN Europe,https://live.cgtn.com/1000/prog_index.m3u8
 
 澳門資訊台,https://tdm.yeslivetv.com/ch5/info_ch5.live/playlist.m3u8
 澳門資訊台,https://tdm.yeslivetv.com/ch5/info_ch5.live/chunklist_w642556008.m3u8 
-
-
-
 
 
 
@@ -569,7 +564,6 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 Live Now FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 NBC News Now,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
-CNBC, http://23.237.98.42:8080/USA_CNBC/index.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 ABC7 Bay Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
 CBS News Bay Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
@@ -651,9 +645,3 @@ Tennis Channel,http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
 NFL Network,http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
 MLB Network,http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
-NBA, http://38.96.178.201/live/NBA/index.m3u8
-TalkTV, https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
-Tennis Channel, https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-Animal Planet, http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
-Comedy Central, http://38.96.178.201:80/live/ComedyCentral/index.m3u8
-Food Network,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
