@@ -150,13 +150,9 @@ RTHK31,http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvb
 RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
 
 
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-横溪影院,https://ali.hlspull.yximgs.com/live/31349012.flv
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
-EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 
 凤凰卫视,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
 凤凰卫视,http://livetv.skycf.eu.org/live.m3u8?c=2
