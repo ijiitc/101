@@ -318,15 +318,23 @@ CCTV17农业,http://1.30.18.218:20080/hls/17/index.m3u8
 浙江卫视,http://chat.2girls.cn:8899/udp/233.50.201.100:5140
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 
+湖南卫视,http://120.194.237.190:808/hls/52/index.m3u8
 湖南卫视,http://111.20.35.103:6610/000000001000/1000000001000009115/index.m3u8?channelid=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00
 湖南卫视,http://115.231.200.110:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://120.194.237.190:808/hls/52/index.m3u8
 湖南卫视,http://222.223.119.21:8888/newlive/live/hls/23/live.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8?
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+
+江苏卫视,http://120.194.237.190:808/hls/46/index.m3u8
+江苏卫视,http://221.213.43.82:8888/newlive/live/hls/22/live.m3u8
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+江苏卫视,http://39.165.24.218:808/hls/46/index.m3u8
+江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
+江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8?
+江苏卫视,http://test.agtv.xyz/jd/hncd.php?id=jsws
 
 
 北京卫视,http://113.26.202.86:1099/tsfile/live/0130_2.m3u8
@@ -347,10 +355,9 @@ CCTV17农业,http://1.30.18.218:20080/hls/17/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/8888881/224/3221226202/index.m3u8
 
 
-
+东南卫视,http://222.223.119.21:8888/newlive/live/hls/42/live.m3u8
 东南卫视,http://118.122.2.29:9999/hls/29/index.m3u8
 东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
-东南卫视,http://222.223.119.21:8888/newlive/live/hls/42/live.m3u8
 东南卫视,http://39.165.24.218:808/hls/66/index.m3u8
 
 
@@ -438,13 +445,6 @@ CCTV17农业,http://1.30.18.218:20080/hls/17/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 
 
-江苏卫视,http://120.194.237.190:808/hls/46/index.m3u8
-江苏卫视,http://221.213.43.82:8888/newlive/live/hls/22/live.m3u8
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-江苏卫视,http://39.165.24.218:808/hls/46/index.m3u8
-江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
-江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8?
-江苏卫视,http://test.agtv.xyz/jd/hncd.php?id=jsws
 
 
 
