@@ -101,6 +101,7 @@ Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 AL Jazeera HD,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8#https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8#https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8#https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 CNN US,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 CNBC HD,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176804
 CBSN,http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
@@ -110,15 +111,19 @@ ABC News US HD,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6
 BBC News,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
 BBC World News HD,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 BBC Earth FHD,https://ov.ottera.tv/live/master.m3u8?channel=earth_et&checkedby:iptvcat.com
+BBC Earth (US),https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+BBC Food,https://i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8#https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 BloombergTV HD,https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
-ChannelNewsAsia FHD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA(ChannelNewsAsia),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+ChannelNews,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+ChannelNews,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+ChannelNews,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 EuroNews,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 France24,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-NHKWorld HD,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-NHK_World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHKWorld,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 Sky News,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8#https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8##https://i.mjh.nz/sky-news-now.m3u8
 TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
 NBC 15 Madison WI,http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:iptvcat.com
 OneAmericaNews,http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
@@ -131,21 +136,37 @@ OneAmericaNews,http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 波兰TV Kujawy,http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 ITV HD,http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 CW (PIX 11),https://srvx1.selftv.video/cafe/live/playlist.m3u8
-[罗马尼亚]LightChannel,http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+罗马尼亚LightChannel,http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 韩国国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-ArirangTV FHD,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+ArirangTV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+KBSWorld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBSWorld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 StarHD,http://livestar.siliconweb.com/media/star1/star1.m3u8
-泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 朝鲜KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩国TVN电影,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-[孟加拉国]EkuseyTV,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+EkuseyTV,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 金砖电视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+Food Network(food),http://mykingtv.net:2082/Kingtv88/88990208/8635
+Tastemade(food),https://i.mjh.nz/SamsungTVPlus/ATBA2200006QX.m3u8#https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
+Tastemade Home(food),https://i.mjh.nz/SamsungTVPlus/CABC5200002OG.m3u8
+Bon Appétit(food),https://i.mjh.nz/SamsungTVPlus/CABC5200006AL.m3u8
+Gusto TV(food),https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
+TLC,http://mykingtv.net:2082/Kingtv88/88990208/8476
+Fashion TV,https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8#https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
+This Old House(老屋改造),https://i.mjh.nz/SamsungTVPlus/CABB25000248J.m3u8
+Architectural Digest(老屋改造),https://i.mjh.nz/SamsungTVPlus/CABC5200009HX.m3u8
+The Design Network(家庭设计),https://i.mjh.nz/SamsungTVPlus/CAAJ3400016J9.m3u8
+Homeful(家庭设计),https://i.mjh.nz/SamsungTVPlus/CABC5200022N1.m3u8
+HGTV(家庭设计),http://mykingtv.net:2082/Kingtv88/88990208/5301
+AsianCrush(英),https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+Zoo Moo(儿),https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 香港,#genre#
 无线新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
@@ -718,28 +739,3 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 笑傲江湖,https://live.metshop.top/yy/1354936128
 知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
 地下交通站,https://live.metshop.top/yy/1354930965
-
- 
-测试,#genre#
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-KBSWORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8#https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8#https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8#https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-Sky News HD,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8#https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8##https://i.mjh.nz/sky-news-now.m3u8
-BBC Earth (US),https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-BBC Food,https://i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8#https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-Food Network(food),http://mykingtv.net:2082/Kingtv88/88990208/8635
-Tastemade(food),https://i.mjh.nz/SamsungTVPlus/ATBA2200006QX.m3u8#https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
-Tastemade Home(food),https://i.mjh.nz/SamsungTVPlus/CABC5200002OG.m3u8
-Bon Appétit(food),https://i.mjh.nz/SamsungTVPlus/CABC5200006AL.m3u8
-Gusto TV(food),https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
-TLC,http://mykingtv.net:2082/Kingtv88/88990208/8476
-Fashion TV,https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8#https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
-This Old House(老屋改造),https://i.mjh.nz/SamsungTVPlus/CABB25000248J.m3u8
-Architectural Digest(老屋改造),https://i.mjh.nz/SamsungTVPlus/CABC5200009HX.m3u8
-The Design Network(家庭设计),https://i.mjh.nz/SamsungTVPlus/CAAJ3400016J9.m3u8
-Homeful(家庭设计),https://i.mjh.nz/SamsungTVPlus/CABC5200022N1.m3u8
-HGTV(家庭设计),http://mykingtv.net:2082/Kingtv88/88990208/5301
-AsianCrush(英),https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-Zoo Moo(儿),https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
