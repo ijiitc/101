@@ -744,8 +744,7 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
 地下交通站,https://live.metshop.top/yy/1354930965
 
-测试,#genre#
-0,http://livetv.skycf.eu.org/live.m3u8?c=0
+测试,#genre# 
 1,http://livetv.skycf.eu.org/live.m3u8?c=1
 2,http://livetv.skycf.eu.org/live.m3u8?c=2
 3,http://livetv.skycf.eu.org/live.m3u8?c=3
