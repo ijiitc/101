@@ -745,7 +745,6 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 地下交通站,https://live.metshop.top/yy/1354930965
 
 测试,#genre# 
-1,http://livetv.skycf.eu.org/live.m3u8?c=1
 2,http://livetv.skycf.eu.org/live.m3u8?c=2
 3,http://livetv.skycf.eu.org/live.m3u8?c=3
 4,http://livetv.skycf.eu.org/live.m3u8?c=4
@@ -760,18 +759,13 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 13,http://livetv.skycf.eu.org/live.m3u8?c=13
 14,http://livetv.skycf.eu.org/live.m3u8?c=14
 15,http://livetv.skycf.eu.org/live.m3u8?c=15
-16,http://livetv.skycf.eu.org/live.m3u8?c=16
-17,http://livetv.skycf.eu.org/live.m3u8?c=17
-18,http://livetv.skycf.eu.org/live.m3u8?c=18
-19,http://livetv.skycf.eu.org/live.m3u8?c=19
-20,http://livetv.skycf.eu.org/live.m3u8?c=20
-21,http://livetv.skycf.eu.org/live.m3u8?c=21
-22,http://livetv.skycf.eu.org/live.m3u8?c=22
-23,http://livetv.skycf.eu.org/live.m3u8?c=23
-24,http://livetv.skycf.eu.org/live.m3u8?c=24
-25,http://livetv.skycf.eu.org/live.m3u8?c=25
-26,http://livetv.skycf.eu.org/live.m3u8?c=26
-27,http://livetv.skycf.eu.org/live.m3u8?c=27
-28,http://livetv.skycf.eu.org/live.m3u8?c=28
-29,http://livetv.skycf.eu.org/live.m3u8?c=29
-30,http://livetv.skycf.eu.org/live.m3u8?c=30
+31,http://livetv.skycf.eu.org/live.m3u8?c=31
+32,http://livetv.skycf.eu.org/live.m3u8?c=32
+33,http://livetv.skycf.eu.org/live.m3u8?c=33
+34,http://livetv.skycf.eu.org/live.m3u8?c=34
+35,http://livetv.skycf.eu.org/live.m3u8?c=35
+36,http://livetv.skycf.eu.org/live.m3u8?c=36
+37,http://livetv.skycf.eu.org/live.m3u8?c=37
+38,http://livetv.skycf.eu.org/live.m3u8?c=38
+39,http://livetv.skycf.eu.org/live.m3u8?c=39
+40,http://livetv.skycf.eu.org/live.m3u8?c=40
