@@ -888,3 +888,4 @@ AXN台湾,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MC6C987593909875939
 HBO频道,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 番薯音乐,ttp://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+TVBS HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
