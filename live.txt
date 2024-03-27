@@ -246,7 +246,7 @@ TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 澳门Macau,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8 
-澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
+澳门Macau,http://124.238.99.44:808/hls/357/index.m3u8
 
  
 澳视澳門,http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
