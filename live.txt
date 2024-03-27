@@ -5,7 +5,10 @@
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://mxwz.fun/gy/gy_muosL/fh_4gt.php?id=fhxg
 凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
+凤凰香港,http://43.141.130.70:80/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 凤凰中文IPV6,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 凤凰资讯IPV6,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -927,9 +930,6 @@ TVBS HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
 凤凰资讯ipv6,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 凤凰资讯ipv6,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
-香港凤凰频道,http://43.141.130.70:80/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-香港凤凰频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-香港凤凰频道,http://mxwz.fun/gy/gy_muosL/fh_4gt.php?id=fhxg
 TVB星河频道,http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
 TVB--功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 星空组播频道,http://118.116.122.163:4422/udp/239.93.0.156:2193
