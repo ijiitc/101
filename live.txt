@@ -3,18 +3,28 @@
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰中文,http://113.64.145.228:8081/hls/37/index.m3u8
+凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰中文,http://mxwz.fun/gy/gy_muosL/fh_4gt.php?id=fhzw
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8
+凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://mxwz.fun/gy/gy_muosL/fh_4gt.php?id=fhxg
 凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
 凤凰香港,http://43.141.130.70:80/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 凤凰中文IPV6,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 凤凰资讯IPV6,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+凤凰资讯IPV6,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+
+
 动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 央视,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
@@ -186,7 +196,11 @@ Zoo Moo(儿),https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/
 TVB星河,http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
 TVB星河2,http://113.64.145.228:8081/hls/135/index.m3u8 
 TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
+TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+
+
+
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 港台电视32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
@@ -227,6 +241,9 @@ TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 星空卫视,http://203.80.165.14/stream/channelid/192561066?profile=pass
 星空卫视,http://110.72.77.8:808/hls/60/index.m3u8 
+星空组播,http://118.116.122.163:4422/udp/239.93.0.156:2193
+星空组播,http://118.116.122.163:4422/udp/239.93.1.10:2193
+
 
 
 澳门,#genre#
@@ -735,24 +752,10 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 NHK日本,http://180.167.104.105:9901/tsfile/live/1025_1.m3u8
 KBS韩国,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8
 CAN亚洲,http://180.167.104.105:9901/tsfile/live/1030_1.m3u8
-CNB亚太,http://180.167.104.105:9901/tsfile/live/1031_1.m3u8
-CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
+CNB亚太,http://180.167.104.105:9901/tsfile/live/1031_1.m3u8 
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 地理野生,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
-
-华视频道,rtmp://f13h.mine.nu/sat/tv111
-中视频道,rtmp://f13h.mine.nu/sat/tv091
-台视频道,rtmp://f13h.mine.nu/sat/tv071
-民视频道,rtmp://f13h.mine.nu/sat/tv051
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-Mo综合,rtmp://f13h.mine.nu/sat/tv761
-ELE体育1,rtmp://f13h.mine.nu/sat/tv731
-ELE体育2,rtmp://f13h.mine.nu/sat/tv741
-ELE体育3,rtmp://f13h.mine.nu/sat/tv751
 台湾番薯,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
 台湾番薯,https://epg.pw/stream/f60d0478b5c3b32b42dff1197b6499bb64e79ca1b9544d28dfb62fe1d84da582.m3u8
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -812,23 +815,7 @@ HBO频道,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E847308298473
 番薯音乐,ttp://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 TVBS HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
-凤凰中文频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
-凤凰中文频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰中文频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰中文频道,http://mxwz.fun/gy/gy_muosL/fh_4gt.php?id=fhzw
-凤凰中文ipv6,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
-凤凰中文ipv6,http://[2409:8087:7000:20::16]/wh7f454c46tw3934030395_900687363/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰资讯频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
-凤凰资讯频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰资讯频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰资讯频道,http://mxwz.fun/gy/gy_muosL/fh_4gt.php?id=fhzx
-凤凰资讯ipv6,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-凤凰资讯ipv6,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
-TVB星河频道,http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
-TVB--功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-星空组播频道,http://118.116.122.163:4422/udp/239.93.0.156:2193
-星空组播频道,http://118.116.122.163:4422/udp/239.93.1.10:2193
 
 RTHK31频道,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32频道,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
