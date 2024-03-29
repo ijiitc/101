@@ -194,6 +194,9 @@ Zoo Moo(儿),https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/
 香港,#genre#
 
 TVB明珠台,https://epg.pw/stream/19ea47ed31c13572912305ac40dab588b69159455bb51a55f520a054826c951c.m3u8
+TVB明珠台,http://pull-l3-cny.douyincdn.com/third/stream-81c6196a626a87b4bc7a81d032b0bf7f.flv
+
+
 TVB翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 TVB翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 TVB翡翠台,https://hs.178816.online/live/fct/index.m3u8
