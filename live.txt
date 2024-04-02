@@ -115,6 +115,19 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 亚洲影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 
 浙江,#genre#
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+杭州影视,http://124.90.208.38:9901/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
+杭州明珠,http://124.90.208.38:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州综合,http://124.90.208.38:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+
 浙江｜卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江｜钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江｜经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
