@@ -136,7 +136,7 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
-直辖市,#genre#
+上海,#genre#
 上海新闻,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
 上海外语,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
