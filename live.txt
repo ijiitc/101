@@ -162,12 +162,6 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 国际频道,https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 国际频道,https://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
 杭州生活,http://www.372583307.top:4022/udp/233.50.201.175:5140
-杭州导视,http://live.cooltv.top/tv/hz.php?id=22
-杭州影视,http://live.cooltv.top/tv/hz.php?id=21
-杭州生活,http://live.cooltv.top/tv/hz.php?id=18
-杭州明珠,http://live.cooltv.top/tv/hz.php?id=17
-杭州综合,http://live.cooltv.top/tv/hz.php?id=16
-杭州1综合,http://115.203.58.116:9999/rtp/233.50.201.173:5140 
 杭州5(少体),http://125.210.152.19:9123/live/hzgq-hzsegq-h264.m3u8 
 杭州1(综合),http://125.210.152.19:9123/live/hzgq-hzzhgq-h264.m3u8 
 杭州3(生活),http://125.210.152.19:9123/live/hzgq-hzshgq-h264.m3u8
