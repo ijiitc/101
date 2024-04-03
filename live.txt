@@ -423,6 +423,13 @@ Electric NOW,https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:
 MoiveSphere,https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 DiscoverFilm,https://tfd-distro.amagi.tv/index.m3u8
 HBO,http://41.205.93.154/HBO/index.m3u8
+HBO,http://gg.gg/HaNoiIPTV-HBO_HD
+HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+HBO,http://220.134.196.147:9557/index.m3u8
+HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 Rakuten TV,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 Discovery,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 Wild Plant,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
