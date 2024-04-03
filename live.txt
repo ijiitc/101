@@ -359,6 +359,8 @@ TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3
 
 TVBS新闻,http://165.1.79.200:9000/live.m3u8?c=67
 TVBS新闻,http://us1.qqvr.online:9000/live.m3u8?c=1
+TVBS HD,http://bad-ass.site/python/referer.php?referer=histar.tv&url=aHR0cHM6Ly9obHMudWxpdmV0di5uZXQvdi9saXZlL2NsN2M0d3hpb2MwMC5tM3U4P3N0cmVhbV9pZD1jbDdjNHd4aW9jMDAmdGltZXN0YW1wPTE3MDYyNjc1MzImcmFuZD1UYlFxWEltREZ2JnV1aWQ9MWNiOW01cGptNFNTcWIzNDNXMmpKaCZmcm9tPXdlYiZzaWduPWY2YTNjODAxOWY4NWJiYWNhNjNhYmRkMjNhMDJmY2ZmJnN0cmVhbV9pZD1jbDdjNHd4aW9jMDAmZGlzcGF0Y2g9U2t0TVFVWkpTa0ZMVEVSR1NqRXlNelF4TWtwTFRFRktSa3N4TWpN
+TVB 明珠台,http://bad-ass.site/python/referer.php?referer=histar.tv&url=aHR0cHM6Ly9obHMudWxpdmV0di5uZXQvdi9saXZlL2RhNjBleXdkMWhjMC5tM3U4P3N0cmVhbV9pZD1kYTYwZXl3ZDFoYzAmdGltZXN0YW1wPTE3MDYyNjc0ODYmcmFuZD1FSTUzeE5pWFBOJnV1aWQ9bjE1bzlMYXBnYmU1dWVFMThYZWo5RiZmcm9tPXdlYiZzaWduPWE1YjQzNTdjYjgwZTljY2Y1Yzg4MjExMzA0ODg2NzZiJnN0cmVhbV9pZD1kYTYwZXl3ZDFoYzA=
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 中天新闻,http://165.1.79.200:9000/live.m3u8?c=64
