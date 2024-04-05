@@ -259,21 +259,11 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 
 香港,#genre#
 
-TVB明珠台,https://epg.pw/stream/19ea47ed31c13572912305ac40dab588b69159455bb51a55f520a054826c951c.m3u8
-TVB明珠台,http://pull-l3-cny.douyincdn.com/third/stream-81c6196a626a87b4bc7a81d032b0bf7f.flv
-TVB明珠台,http://flv.mp4cdn.live/gt-key=0025874.php?id=3
-
-
-TVB翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
-TVB翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.flv
-TVB翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
-
-
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
+翡翠台,http://php.jdshipin.com:8880/iptv.php?id=fct
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2
-
-
+无线财经x,http://live.cooltv.top/tv/tvb.php?id=1
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
