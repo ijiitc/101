@@ -28,21 +28,7 @@
 凤凰香港,http://r.jdshipin.com/yDoTN
 
 
-动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-精彩影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-探索纪实,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
-少儿动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
-风尚音乐,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-精品剧场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
-欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 
 
 央视,#genre#
@@ -552,6 +538,21 @@ AstrsANI,http://165.1.79.200:9000/live.m3u8?c=164
 26号[1920*1080],http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 
 热播,#genre# 
+动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+精彩影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+探索纪实,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
+少儿动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
+风尚音乐,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
+精品剧场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
+欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 iHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 iHOT爱科幻,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 iHOT爱浪漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
@@ -1079,3 +1080,32 @@ X-17,http://live.cooltv.top/tv/tvb.php?id=17
 X-18,http://live.cooltv.top/tv/tvb.php?id=18
 X-19,http://live.cooltv.top/tv/tvb.php?id=19
 X-20,http://live.cooltv.top/tv/tvb.php?id=20
+HKC18台,http://8.217.189.23/live/jrlive.php?id=HKC18
+HKC18台,http://8.217.189.23/live/jrlive.php?id=18
+HKC18台,http://8.217.189.23/live/jrlive.php?id=HKC603HD
+HKC 18台,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
+18跑马,http://8.217.189.23/live/jrlive.php?id=C1
+18跑马,http://8.217.189.23/live/jrlive.php?id=TVBmyTVSUPER18HK
+⑥香港搅珠,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+⑥港930⑥,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+⑥港930⑥,rtmp://100www.ku55.cn/zzjj123/livekj123?auth_key=2299702236-0-0-4d409d8bca97ea5ff8fd9cf763129ac1
+⑥港930⑥,https://ccc.puufvum.com/live/629.m3u8
+⑥港930⑥,rtmp://bbb.apnqpsn.cn/live/kkk
+⑥老澳门⑥,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
+⑥老澳门⑥,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+⑥老澳门⑥,https://vdm6-ali.oujinghb.com/live/2032-2.flv
+⑥老澳门⑥,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
+新澳⑨:30,https://play666.macau-lhc.live/live/mosixmark.flv
+新澳⑨:30,https://play888.00853lhc.live/live/mosixmark.flv
+新澳⑨:30,https://blxmmo.fgeege.com/live/new33666mo.m3u8
+⑥香港21:30j2网,rtmp://bbb.yztsqwr.cn/live/kkk
+⑥香港21:30四九,https://yyy.mmzj.net/lives/123678.flv
+⑥香港21:30播放,rtmp://ttt.onxlejj.cn/live/kkk
+@新澳21:30彩家,https://blxmmo.vjrccdn.com/live/new33666mo.m3u8
+@新澳21:30四九,https://play666.macau-lhc.live/live/mosixmark.flv
+@新澳21:30官方,https://play888.00853lhc.live/live/mosixmark.flv
+@老澳21:32彩家,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
+@老澳21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+@老澳21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+@老澳21:32播放,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
+@老澳21:32官方,https://vdm6-hwnon.ntnftchain.com/li
