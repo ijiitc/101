@@ -208,7 +208,6 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
  
 上海,#genre# 
-CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 上海纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 上海崇明台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 上海金山台,http://livejs1.newsjs.net/jspd/playlist.m3u8
@@ -1141,6 +1140,7 @@ X-18,http://live.cooltv.top/tv/tvb.php?id=18
 X-19,http://live.cooltv.top/tv/tvb.php?id=19
 X-20,http://live.cooltv.top/tv/tvb.php?id=20
 
+CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 
 
 12[785x576],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000012/index.m3u8?IAS
