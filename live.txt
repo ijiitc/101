@@ -577,7 +577,8 @@ TVB J2,https://pull-l3-activity.ixigua.com/live/YesLiveTV-9133caea-2e45-4ab3-948
 TVBS新闻,http://165.1.79.200:9000/live.m3u8?c=67
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS HD,http://us1.qqvr.online:9000/live.m3u8?c=2&tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS HD,http://us1.qqvr.online:9000/live.m3u8?c=2
 中天新闻,http://165.1.79.200:9000/live.m3u8?c=64
 中天新闻,http://165.1.79.200:9000/live.m3u8?c=65
 民视新闻,http://165.1.79.200:9000/live.m3u8?c=66
