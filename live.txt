@@ -21,12 +21,7 @@
 凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 
 
-凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-凤凰香港,http://mxwz.fun/gy/gy_muosL/fh_4gt.php?id=fhxg
-凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
-凤凰香港,http://43.141.130.70:80/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-凤凰香港,http://r.jdshipin.com/NfC0f
-凤凰香港,http://r.jdshipin.com/yDoTN
+
 
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
@@ -507,6 +502,12 @@ TVB J2,https://pull-l3-activity.ixigua.com/live/YesLiveTV-9133caea-2e45-4ab3-948
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8#http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed#http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40#https://s2.pub/cctv-1#http://183.1.250.230:8081/hls/38/index.m3u8#http://180.137.27.245:8181/tsfile/live/1002_1.m3u8#http://171.38.67.185:8181/tsfile/live/1002_1.m3u8#http://171.109.225.182:8181/tsfile/live/1005_1.m3u8#http://113.64.145.141:8081/hls/38/index.m3u8
 凤凰香港,https://s2.pub/cctv-1
 凤凰香港,http://113.117.74.28:8081/hls/38/index.m3u8
+凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://mxwz.fun/gy/gy_muosL/fh_4gt.php?id=fhxg
+凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
+凤凰香港,http://43.141.130.70:80/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰香港,http://r.jdshipin.com/yDoTN
 
 欧洲华文1套,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 
