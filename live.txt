@@ -1202,6 +1202,14 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 中国教育1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3138605BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUOUGwH6VRXb4DjD%2BZ9jv%2Fndo%2FUL80msfbhDYvoWpNl3Oq%2BxBXK1CATKks%2BugJbz%2FG5yJ1j9pWSKsB9RqtX16R4
 
 测试,#genre#  
+TVBS,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
+TVBS,http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
+TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=30
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
+
 X-1,http://live.cooltv.top/tv/tvb.php?id=1
 X-2,http://live.cooltv.top/tv/tvb.php?id=2
 X-3,http://live.cooltv.top/tv/tvb.php?id=3
