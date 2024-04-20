@@ -262,6 +262,7 @@ CCTV17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
  
 上海,#genre# 
 
+上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 上海新闻,http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
 上海新闻,http://php.jdshipin.com:8880/bst.php?id=xwzhhd8m/8000000 
 上海都市,http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
