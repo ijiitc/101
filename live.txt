@@ -455,6 +455,10 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 
 
 香港,#genre#
+明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+翡翠台,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
+无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+无线财经,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 明珠台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=12
@@ -600,6 +604,22 @@ TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist
 
 
 台湾,#genre#
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+aha,http://61.221.215.25:8800/hls/50/index.m3u8
+nhkworld,http://61.221.215.25:8800/hls/51/index.m3u8
+Dbox,http://61.221.215.25:8800/hls/54/index.m3u8
+八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+利加隆,http://61.221.215.25:8800/hls/57/index.m3u8
+LISTENONSPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
+
+
 
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
