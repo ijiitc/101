@@ -620,6 +620,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,https://epg.pw/stream/99e4f193ded4ba69029bcc31369e75f3a58c4eba1598586efebb0ff12bb31cab.ctv
 
+TVBS test,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+TVBS test,http://50.7.218.42:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+
 TVBS HD,http://us1.qqvr.online:9000/live.m3u8?c=2
 TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS HD,https://epg.pw/stream/927ca42b884ccdc9448f7b613ffa0e2ef255f048800546c412c36a6036e1d861.m3u8
