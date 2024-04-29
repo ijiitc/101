@@ -469,6 +469,7 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 明珠台,https://sas.fenbu.net/stream/yeslive.php?id=mzt
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
+翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=7
@@ -609,6 +610,8 @@ TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist
 台湾,#genre#
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+
+TVBS亚洲,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
