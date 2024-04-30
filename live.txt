@@ -676,7 +676,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 aha,http://61.221.215.25:8800/hls/50/index.m3u8
 八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-利加隆,http://61.221.215.25:8800/hls/57/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 LISTENONSPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
 
 台湾番薯,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
@@ -685,23 +685,14 @@ LISTENONSPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 台湾番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 华语电视,http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
-华语电视,http://66.165.240.154:8080/live/tytvbs11/hls.m3u8
+华语电视2,http://66.165.240.154:8080/live/tytvbs11/hls.m3u8
 
-2号[1920*1080],http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-3号[1920*1080],http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-1号[1920*1080],http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-5号[1920*1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-8号[1920*1080],http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-6号[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-9号[853*480],http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
-11号[720*540],http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8
-12号[1920*1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-13号[1920*1080],http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-15号[1920*1080],http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-18号[1920*1080],http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
-21号[1920*1080],http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
-24号[1920*1080],http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8
-26号[1920*1080],http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华语电视2,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8 
+TVBS 亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8 
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
 
 外语,#genre#
