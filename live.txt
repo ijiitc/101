@@ -458,13 +458,13 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 
 香港,#genre#
 明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 明珠台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=12
 明珠台,https://pi.0472.org/tv/mzt.php?auth=2309081833
 明珠台,http://p.123tv.cn/p/lu.php?id=tvbmz
 明珠台,https://sas.fenbu.net/stream/yeslive.php?id=mzt
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
-明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
 
 翡翠台,http://php.jdshipin.com:8880/iptv.php?id=fct
 翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
