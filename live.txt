@@ -67,7 +67,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
-央视/卫视,#genre# 
+央/卫视,#genre# 
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
 CCTV2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
 CCTV3,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
@@ -133,7 +133,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
 中国教育1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3138605BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUOUGwH6VRXb4DjD%2BZ9jv%2Fndo%2FUL80msfbhDYvoWpNl3Oq%2BxBXK1CATKks%2BugJbz%2FG5yJ1j9pWSKsB9RqtX16R4
 
-央视/卫视2,#genre#
+央/卫视—2,#genre#
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV2,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?
@@ -326,7 +326,7 @@ CCTV17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 新疆卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8
 
  
-上海,#genre# 
+上海电视,#genre# 
 
 上海新闻,http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
 上海新闻,http://php.jdshipin.com:8880/bst.php?id=xwzhhd8m/8000000 
@@ -390,7 +390,7 @@ CCTV17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 五星体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 
 
-浙江,#genre#
+浙江电视,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -521,7 +521,7 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 
 
-香港,#genre#
+香港电视,#genre#
 明珠台,https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
 明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
@@ -617,7 +617,7 @@ TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist
 凤凰香港,http://r.jdshipin.com/yDoTN
 
 
-澳门,#genre#
+澳门电视,#genre#
 澳门莲花,http://php.jdshipin.com:8880/amlh.php 
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://ye23.win/iptv/lotustv2020.php
@@ -677,7 +677,7 @@ TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 
 
-台湾,#genre#
+台湾电视,#genre#
 TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 
@@ -766,7 +766,7 @@ TVBS 亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
 
-外语,#genre#
+外语频道,#genre#
 Electric NOW,https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
 MoiveSphere,https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 DiscoverFilm,https://tfd-distro.amagi.tv/index.m3u8
@@ -867,7 +867,7 @@ AsianCrush(英),https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amag
 Zoo Moo(儿),https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 
-国际,#genre#
+国际频道,#genre#
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
@@ -989,7 +989,7 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
 地下交通站,https://live.metshop.top/yy/1354930965
 
-IPV4,#genre#
+央/卫视_V4,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -1245,7 +1245,7 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 云南卫视,http://61.148.223.18:8888/newlive/live/hls/27/live.m3u8
 
 
-测试,#genre#  
+测试频道,#genre#  
 
 
 TVBS,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
