@@ -67,7 +67,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
-央/卫视,#genre# 
+央视/卫视,#genre# 
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
 CCTV2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
 CCTV3,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
@@ -133,7 +133,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
 中国教育1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3138605BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUOUGwH6VRXb4DjD%2BZ9jv%2Fndo%2FUL80msfbhDYvoWpNl3Oq%2BxBXK1CATKks%2BugJbz%2FG5yJ1j9pWSKsB9RqtX16R4
 
-央/卫视—2,#genre#
+央视/卫视2,#genre#
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV2,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?
@@ -955,9 +955,7 @@ NFL Network,http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
 MLB Network,http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 
-电视剧,#genre#
-
- 
+电视剧频道,#genre#
 天龙八部,https://live.metshop.top/yy/1351814644
 神雕侠侣,https://live.metshop.top/yy/1351762426#https://lunbo.freetv.top/yy/1351762426
 笑傲江湖,https://live.metshop.top/yy/1354936128
@@ -989,7 +987,7 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
 地下交通站,https://live.metshop.top/yy/1354930965
 
-央/卫视_V4,#genre#
+央/卫视IPV4,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -1246,8 +1244,6 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 
 
 测试频道,#genre#  
-
-
 TVBS,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 TVBS,http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
 TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
