@@ -932,6 +932,15 @@ TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist
 
 台湾频道,#genre#
 TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
+
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8 
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8 
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+
+
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 
 TVBS亚洲,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
