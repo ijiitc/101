@@ -2,6 +2,7 @@
 
 
 
+凤凰中文,http://120.41.124.228:8888/rtp/239.61.2.184:9092
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -22,6 +23,8 @@
 凤凰中文,https://qist.cc/live/sc.php?id=fhws
 凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
 
+凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
+凤凰资讯,http://120.41.124.228:8888/rtp/239.61.2.183:9086
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -41,6 +44,7 @@
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
 凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 
+凤凰电影,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
 凤凰香港,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 凤凰香港,http://60.164.229.241:4040/udp/239.255.30.123:8231
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8#http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed#http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40#https://s2.pub/cctv-1#http://183.1.250.230:8081/hls/38/index.m3u8#http://180.137.27.245:8181/tsfile/live/1002_1.m3u8#http://171.38.67.185:8181/tsfile/live/1002_1.m3u8#http://171.109.225.182:8181/tsfile/live/1005_1.m3u8#http://113.64.145.141:8081/hls/38/index.m3u8
@@ -981,6 +985,7 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 明珠台,https://sas.fenbu.net/stream/yeslive.php?id=mzt
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
 翡翠台,http://208.110.73.236:8080/live/132/hls.m3u8
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
