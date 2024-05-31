@@ -1132,7 +1132,11 @@ TVBS亚洲,https://epg.pw/stream/99e4f193ded4ba69029bcc31369e75f3a58c4eba1598586
 
 TVBS HD,http://us1.qqvr.online:9000/live.m3u8?c=2
 TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-
+TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS HD,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv073
+TVBS HD,http://william8073.eu.org:9000/live.m3u8?c=1
+TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS HD,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
