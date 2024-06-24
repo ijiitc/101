@@ -781,70 +781,21 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 
 上海频道,#genre# 
 
-上海新闻,http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
-上海新闻,http://php.jdshipin.com:8880/bst.php?id=xwzhhd8m/8000000 
-上海都市,http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
-第一财经,http://php.jdshipin.com:8880/bst.php?id=dycjhd/4000000
-上海外语,http://php.jdshipin.com:8880/bst.php?id=wypdhd/4000000
-上海外语,http://php.jdshipin.com:8880/bst.php?id=icshd8m/8000000
-东方影视,http://php.jdshipin.com:8880/bst.php?id=dsjpdhd/4000000
-法治天地,http://php.jdshipin.com:8880/bst.php?id=fztd8m/8000000
-法治天地,http://58.41.4.194:8001/udp/239.45.1.46:5140
-东方财经,http://php.jdshipin.com:8880/bst.php?id=dfcjhd8m/8000000
-上海教育,http://php.jdshipin.com:8880/bst.php?id=setvhd/8000000
-五星体育,http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
-七彩戏剧,http://php.jdshipin.com:8880/bst.php?id=qcxjhd8m/8000000
-东方购物,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dfgwsxhd8m/8000000/mnf.m3u8
+
+上海新闻,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8
+上海都市,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8
+上海教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8
+上海外语,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8
+东方影视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8
 
 
-上海新闻,https://itv.lat/tv/live.php?&line=1&id=shxwzh
-上海都市,https://itv.lat/tv/live.php?&line=1&id=shds
-上海外语,https://itv.lat/tv/live.php?&line=1&id=shics
-东方影视,https://itv.lat/tv/live.php?&line=1&id=dfys
-七彩戏剧,https://itv.lat/tv/live.php?&line=1&id=qcxj
-第一财经,https://itv.lat/tv/live.php?&line=1&id=dycj
-法治天地,https://itv.lat/tv/live.php?&line=1&id=fztd
-东方财经,https://itv.lat/tv/live.php?&line=1&id=dfcj
-上海教育,https://itv.lat/tv/live.php?&line=1&id=shjy
 纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 上海崇明台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 上海嘉定台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 上海金山台,http://livejs1.newsjs.net/jspd/playlist.m3u8
 
 
-上海新闻,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-上海都市,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-上海外语,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-七彩戏剧,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-五星体育,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-东方影视,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-东方财经,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-法治天地,http://[2409:8087:7001:20:1000::88]:6610/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-第一财经,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-东方购物,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010004/index.m3u8?channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
-
-上海新闻,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
-第一财经,http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1314BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjI9NVIjBLmqU0HRssVBtByz0TJiFt6IqCBywgEFMyoS7%2BaXtSGYH1ipJfllOdvLcUQ%3D%3D
  
-
-上海新闻,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-上海新闻,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
-上海都市,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-上海都市,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000012/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000012&livemode=1&stbId=3
-第一财经,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-第一财经,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000004/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000004&livemode=1&stbId=3
-东方财经,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-东方财经,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000090/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
-上海外语,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-上海外语,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000001/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000001&livemode=1&stbId=3
-法治天地,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
-纪实人文,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
-纪实人文,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
-纪实人文,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000265021/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=3
-纪实人文,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000001000021713/index.m3u8?channel-id=bestzb&Contentid=5000000001000021713&livemode=1&stbId=3
-纪实人文,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000010606/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=3
-五星体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-五星体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 
 
 浙江频道,#genre#
