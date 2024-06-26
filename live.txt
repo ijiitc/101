@@ -937,21 +937,7 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 
 
-北京频道,#genre#
-
-BRTV卫视,rtp://239.3.1.241:8000
-BRTV新闻,rtp://2rtp/239.3.1.159:8000
-BRTV影视,rtp://239.3.1.158:8000
-BRTV文艺,rtp://239.3.1.242:8000
-BRTV财经,rtp://239.3.1.116:8000
-BRTV生活,rtp://239.3.1.117:8000
-BRTV青年,rtp://239.3.1.118:8000
-BRTV纪实科教,rtp://239.3.1.115:8000
-BRTV卡酷少儿,rtp://239.3.1.189:8000
-BRTV冬奥纪实,rtp://239.3.1.243:8000
-BRTV冬奥纪实,rtp://239.3.1.120:8000
-BRTV冬奥纪实,rtp://239.3.1.121:8000
-BRTV体育休闲,rtp://239.3.1.243:8000
+ 
 
 香港频道,#genre#
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
