@@ -14,6 +14,8 @@
 凤凰香港,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8
 凤凰香港,http://113.64.147.55:8081/hls/38/index.m3u8
  
+凤凰电影,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
+凤凰电影,http://117.114.153.1:8180/TV00000000000000000072@HHZT
 
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
@@ -928,6 +930,7 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 明珠台,https://sas.fenbu.net/stream/yeslive.php?id=mzt
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn#P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
 翡翠台,http://208.110.73.236:8080/live/132/hls.m3u8
@@ -947,21 +950,20 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh1-JaZ8OwyTRmtfkvBKgd7A/m3u8
 
-
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
 
-无线新闻2,http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 
+ 
 TVB财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 TVB财经体育资讯,http://live.cooltv.top/tv/tvb.php?id=1
  
 TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB星河2,http://113.64.145.228:8081/hls/135/index.m3u8  
+
 TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 
