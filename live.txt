@@ -1350,11 +1350,7 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 
 
 
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
 
  
 
@@ -1430,6 +1426,9 @@ X-20,http://live.cooltv.top/tv/tvb.php?id=20
 528[1920x1080],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 533[1920x1080],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
 
+
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,rtp://239.61.2.184:9092
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
@@ -1451,6 +1450,10 @@ X-20,http://live.cooltv.top/tv/tvb.php?id=20
 凤凰中文,https://qist.cc/live/sc.php?id=fhws
 凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
 
+
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,rtp://239.61.2.183:9086 
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
@@ -1470,8 +1473,6 @@ X-20,http://live.cooltv.top/tv/tvb.php?id=20
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
 凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
-
-凤凰电影,rtp://239.254.201.1:5214
 
 凤凰香港,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 凤凰香港,http://60.164.229.241:4040/udp/239.255.30.123:8231
