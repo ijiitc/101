@@ -1038,12 +1038,7 @@ TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist
 
 台湾频道,#genre#
 TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-
+ 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8 
 TVBS亚洲,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 TVBS亚洲,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
@@ -1066,8 +1061,7 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 
-中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
-中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3 
 
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -1085,14 +1079,8 @@ TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中视新闻,https://ytm2.yuanhsing.cf/twctvnews.m3u8
-三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
-三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
-三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-寰宇新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-镜新闻Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-东森財经,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
  
-民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+ 
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
@@ -1111,18 +1099,7 @@ TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,https://ytm2.yuanhsing.cf/twctvnews.m3u8
-三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-寰宇新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-镜新闻Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-镜新闻Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-东森財经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-东森財经,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-
+ 
 
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
