@@ -794,7 +794,6 @@ CCTV16奥运,rtp://239.45.0.11:5140
 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江民生,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -930,12 +929,13 @@ CCTV16奥运,rtp://239.45.0.11:5140
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryh1-JaZ8OwyTRmtfkvBKgd7A/m3u8
 
+
+
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
 
-
+无线新闻2,http://live.cooltv.top/tv/tvb.php?id=2
  
 TVB财经体育资讯,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 TVB财经体育资讯,http://live.cooltv.top/tv/tvb.php?id=1
