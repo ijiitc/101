@@ -989,12 +989,13 @@ TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
 
-
+澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 澳门Macau,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/index.m3u8 
 澳门Macau,http://124.238.99.44:808/hls/357/index.m3u8
 
+澳视澳門,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视澳門,http://61.244.22.5/ch1/ch1.live/index.m3u8 
 澳视澳門,http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
 澳视澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
