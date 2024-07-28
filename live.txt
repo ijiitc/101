@@ -1035,12 +1035,11 @@ TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist
 台湾频道,#genre#
 TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
 
-TVBS HD, http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS HD,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv073
+TVBS HD, http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv073
 TVBS HD, http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBS HD, http://110.185.171.226:96/yximgs.php?id=140
 TVBS HD, http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1668
-TVBS HD,http://william8073.eu.org:9000/live.m3u8?c=1
+TVBS HD, http://william8073.eu.org:9000/live.m3u8?c=1
 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8 
 TVBS亚洲,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
@@ -1055,7 +1054,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-
 TVBS亚洲,http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 TVBS亚洲,http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -1102,7 +1100,7 @@ TVBS亚洲,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,https://ytm2.yuanhsing.cf/twctvnews.m3u8
- 
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8 
 Discovery,http://61.221.215.25:8800/hls/1/index.m3u8 
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
