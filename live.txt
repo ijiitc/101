@@ -16,7 +16,7 @@
 凤凰电影,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
 凤凰电影,http://117.114.153.1:8180/TV00000000000000000072@HHZT
 
-CHC动作电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+ 
 
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
@@ -62,11 +62,14 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
-CHC高清电影,http://119.98.233.15:5555/rtp/239.69.1.241:11088
-CHC高清电影,http://171.119.204.100:6001/rtp/226.0.2.93:8004
-CHC家庭影院,http://119.165.163.162:1029/udp/239.253.254.152:8000
-CHC动作电影,http://119.98.95.105:8888/rtp/239.69.1.242:11094
-CHC动作电影,http://117.23.162.97:9001/rtp/239.112.205.207:5140
+CHC家庭影院,http://tv6.blcu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/452c80009b-0-0-e2338fa7fa61d532e85364bf7f77a71e/index.m3u8
+
+CHC动作电影,http://tv6.blcu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/59799779bf-0-0-46589e4cd4a185d126f36ac81a80255f/index.m3u8
+
+CHC高清电影,http://tv6.blcu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/a51d115379-0-0-2d3f80b098bcb9a30d9368695375926f/index.m3u8
+
+CHC家庭影院,http://119.98.233.15:5555/rtp/239.253.254.152:8000
+CHC动作电影,http://119.98.233.15:5555/rtp/239.69.1.242:11094 
 CHC影迷,http://119.98.233.15:5555/rtp/239.69.1.241:11088
 
 
