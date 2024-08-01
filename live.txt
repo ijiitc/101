@@ -1080,14 +1080,10 @@ TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS亚洲,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
 TVBS亚洲,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
 
-中天新闻,https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
-中天新闻,https://epg.pw/stream/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.m3u8
-中天新闻,https://epg.pw/stream/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.ctv
-中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-
 民视新闻,https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
 民视新闻,https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
-民视新闻,https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
+
+台视新闻,https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
 民视新闻,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
   
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8 
