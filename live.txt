@@ -12,8 +12,6 @@
 凤凰香港,http://116.162.6.191/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8 
  
-凤凰电影,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
-凤凰电影,http://117.114.153.1:8180/TV00000000000000000072@HHZT
 
 CHC动作电影,http://119.98.233.15:5555/rtp/239.69.1.242:11094 
 CHC家庭影院,http://119.98.233.15:5555/rtp/239.69.1.243:11100
@@ -1084,7 +1082,7 @@ TVBS亚洲,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f81
 民视新闻,https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
 
 台视新闻,https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
-民视新闻,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
+台视新闻,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
   
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8 
 Discovery,http://61.221.215.25:8800/hls/1/index.m3u8 
