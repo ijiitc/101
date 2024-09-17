@@ -969,7 +969,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
 东森財经 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森財经 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-原住民族电视台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
