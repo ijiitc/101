@@ -1075,6 +1075,10 @@ i24 News,https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-cen
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 AL Jazeera HD,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Sky news, http://2022.stream-link.org/live/127064321
+Sky news, http://50.7.238.98:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
+BBC news, https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+BBC news, http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8#https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8#https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8#https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN US,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
