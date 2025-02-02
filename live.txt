@@ -517,12 +517,7 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-古装剧,http://maomao.kandiantv.cn/douyu1.php?id=338759 
-神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3395113 
-科幻动作灾难,http://maomao.kandiantv.cn/douyu1.php?id=248753
-科幻系列,http://maomao.kandiantv.cn/douyu1.php?id=8107217
-科幻影视解说,http://maomao.kandiantv.cn/douyu1.php?id=3508304
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8 
 
 CMCC,#genre# 
 CCTV1,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/index.m3u8?fmt=ts2hls
