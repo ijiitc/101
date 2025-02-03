@@ -275,6 +275,14 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+TVBS亚洲,http://extraott.com:80/live/6772191932/1654508883/33015.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
+TVBS亚洲,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
+
 民视新闻 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -306,13 +314,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
 东森財经 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森財经 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-TVBS亚洲,http://extraott.com:80/live/6772191932/1654508883/33015.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
-TVBS亚洲,https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8
 
 民视新闻,https://epg.pw/stream/15272fb21a888b3f327e5287863e5f99fa44144977d760e27bc2f99a8229977e.ctv
 民视新闻,https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
@@ -362,6 +363,8 @@ Sky news, https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2
 Sky news,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 Sky news,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 Sky news, http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+Sky News,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8#https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8##https://i.mjh.nz/sky-news-now.m3u8
 
 BBC news, https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 BBC news, http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
@@ -394,8 +397,7 @@ EuroNews,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 France24,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 NHKWorld,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-Sky News,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8#https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8##https://i.mjh.nz/sky-news-now.m3u8
+
 TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
 NBC 15 Madison WI,http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:iptvcat.com
 OneAmericaNews,http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
