@@ -109,6 +109,8 @@ MAX极速汽车,rtp://239.45.3.49:5140
 上海金山台,http://livejs1.newsjs.net/jspd/playlist.m3u8
  
  
+
+
 浙江频道,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -118,6 +120,9 @@ MAX极速汽车,rtp://239.45.3.49:5140
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+
+
 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -222,15 +227,32 @@ MAX极速汽车,rtp://239.45.3.49:5140
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 
 香港频道,#genre#
-明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
-明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
-明珠台,https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
-明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
-明珠台,http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=12
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2309081833
-明珠台,http://p.123tv.cn/p/lu.php?id=tvbmz
-明珠台,https://sas.fenbu.net/stream/yeslive.php?id=mzt
-明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
+
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?id=123
+凤凰中文,http://182.138.160.167:9000/udp/239.93.1.9:2192
+凤凰中文,http://182.138.160.167:9000/udp/239.93.0.162:2192
+凤凰中文,http://171.213.132.83:55555/udp/239.93.1.9:2192
+凤凰中文,http://171.213.132.83:55555/udp/239.93.0.162:2192
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?id=124
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,http://extraott.com:80/live/6772191932/1654508883/62829.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://182.138.160.167:9000/udp/239.93.1.4:2191
+凤凰资讯,http://182.138.160.167:9000/udp/239.93.0.118:2191
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+
+
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+明珠台,http://cookies.elementfx.com/ublive/ublive.php?id=391
+明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+明珠台,http://119.32.12.32:2901/udp/224.1.100.123:11111 
 
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn#P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
@@ -396,6 +418,8 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
 东森財经 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森財经 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+TVBS亚洲,http://extraott.com:80/live/6772191932/1654508883/33015.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -446,8 +470,11 @@ i24 News,https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-cen
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 AL Jazeera HD,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Sky news, http://2022.stream-link.org/live/127064321
-Sky news, http://50.7.238.98:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
+Sky news, https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+Sky news,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+Sky news,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+Sky news, http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+
 BBC news, https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 BBC news, http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8#https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8#https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8#https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
@@ -622,21 +649,4 @@ NBA TV,http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-古装剧,http://maomao.kandiantv.cn/douyu1.php?id=338759 
-神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3395113 
-科幻动作灾难,http://maomao.kandiantv.cn/douyu1.php?id=248753
-科幻系列,http://maomao.kandiantv.cn/douyu1.php?id=8107217
-科幻影视解说,http://maomao.kandiantv.cn/douyu1.php?id=3508304
-1905国内电影,http://ygbh.live/1905.php?id=1905a # http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905环球经典,http://ygbh.live/1905.php?id=1905b # http://php.jdshipin.com:8880/1905.php?id=1905dy2
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8
-HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO温馨家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-HBO强档巨献,http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-爱尔达影剧,http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
-美亚电影台(国语),http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
-
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8  
